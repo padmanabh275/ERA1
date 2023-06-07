@@ -4,6 +4,14 @@
 
 <img width="250" alt="Progress" src="https://github.com/padmanabh275/ERA1/assets/44230428/73983d83-0a18-46ab-8678-08cc0f6b47ed">
 
+The Folder ERA contains the following files:-
+
+1. S5 - Based on python for using the code related to the assignment
+2. Model.py - Assignment 5 - Code used to display the model 
+3. Utils.py - Assignment 5 - Code used to display the utilities used for the model and S5 
+
+
+
 **##S6 Images of Excel- Back Propogation Artitecture** 
 
 Learning Rate - 0.1
