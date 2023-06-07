@@ -4,17 +4,30 @@
 
 <img width="250" alt="Progress" src="https://github.com/padmanabh275/ERA1/assets/44230428/73983d83-0a18-46ab-8678-08cc0f6b47ed">
 
-#S6 Images of Excel- Back Propogation Artitecture 
-         Learning Rate - 0.1
-        ![0 01](https://github.com/padmanabh275/ERA1/assets/44230428/39fa5a3d-b1d4-4dbd-ac69-d19ac823402e)
-        Learning Rate - 0.2
-![0 02](https://github.com/padmanabh275/ERA1/assets/44230428/b23b617e-1a20-4256-a4f9-b806a927d154)
-        Learning Rate - 0.5
-![0 5](https://github.com/padmanabh275/ERA1/assets/44230428/8fcfb9f9-947a-4de7-abe4-e8a15e81569e)
-        Learning Rate - 0.8
-![0 8](https://github.com/padmanabh275/ERA1/assets/44230428/23490af4-4352-401d-a0f1-4442edb80a41)
-        Learning Rate - 1.0
-![1](https://github.com/padmanabh275/ERA1/assets/44230428/21f0cea3-6147-4d02-a21c-96b2f35eb853)
-        Learning Rate - 2.0
-![2](https://github.com/padmanabh275/ERA1/assets/44230428/2c93242a-9753-4e52-a9a3-114e58f825ca)
+**##S6 Images of Excel- Back Propogation Artitecture** 
 
+Learning Rate - 0.1
+
+
+<img width="100" alt="0 01" src="https://github.com/padmanabh275/ERA1/assets/44230428/711c9845-3d26-472d-a231-28cd791d4080"> <br>
+
+Learning Rate - 0.2
+       
+
+<img width="100" alt="0 02" src="https://github.com/padmanabh275/ERA1/assets/44230428/d77a5d3c-8eac-4795-b0f3-1dca886ff15e"> <br>
+Learning Rate - 0.5
+       
+
+<img width="100" alt="0 5" src="https://github.com/padmanabh275/ERA1/assets/44230428/9ed4e66f-4aad-4670-9837-7ca838df7449"> <br>
+Learning Rate - 0.8
+        
+
+<img width="100" alt="0 8" src="https://github.com/padmanabh275/ERA1/assets/44230428/71afa773-3d7c-42cb-a4fd-dffc6a60f094"> <br>
+Learning Rate - 1.0
+       
+
+<img width="100" alt="1" src="https://github.com/padmanabh275/ERA1/assets/44230428/d2695cc5-e3c4-4ba8-ab9a-1d93590a0a65"> <br>
+Learning Rate - 2.0
+        
+
+<img width="100" alt="2" src="https://github.com/padmanabh275/ERA1/assets/44230428/27efe2fe-c65a-4c38-9983-26f09cdcf071"> <br>
