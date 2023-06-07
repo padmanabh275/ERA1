@@ -2,9 +2,7 @@
 ## Taking Small Little Steps towards AI - Thanks to Courtesy TSAI - <img width="50" alt="Thank_you" src="https://github.com/padmanabh275/ERA1/assets/44230428/1b33dd38-a36f-4b9f-bf75-1491cf451c46">
 
 
-        As i embarak on a new note.... 
-                Oh Lord!! Keep the faith and the spirits high and help me improve by small tides...
-                
+<img width="250" alt="Progress" src="https://github.com/padmanabh275/ERA1/assets/44230428/73983d83-0a18-46ab-8678-08cc0f6b47ed">
 
 #S6 Images of Excel- Back Propogation Artitecture 
          Learning Rate - 0.1
