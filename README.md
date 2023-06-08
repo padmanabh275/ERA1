@@ -43,3 +43,8 @@ Learning Rate - 2.0
         
 
 <img width="100" alt="2" src="https://github.com/padmanabh275/ERA1/assets/44230428/27efe2fe-c65a-4c38-9983-26f09cdcf071"> <br>
+
+Assignment 6 - Multimodel Code for the Structure used in desinging the model. 
+
+<img width="450" alt="layer" src="https://github.com/padmanabh275/ERA1/assets/44230428/99ad26e2-1741-4a53-86cf-7f8d6d51c9ba"> <br>
+
