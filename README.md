@@ -13,6 +13,10 @@ The Folder ERA contains the following files:-
 
 
 **##S6 Images of Excel- Back Propogation Artitecture** 
+The Excel sheet attached for backprogation calculates the values of a neuron. 
+
+<img width="383" alt="neuron" src="https://github.com/padmanabh275/ERA1/assets/44230428/d5532e5c-f83c-430f-adb1-541a9b75af49">
+
 
 Learning Rate - 0.1
 
